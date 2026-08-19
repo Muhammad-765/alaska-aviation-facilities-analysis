@@ -187,21 +187,12 @@ alaska-aviation-facilities-analysis/
 │
 ├── README.md
 ├── requirements.txt
-├── LICENSE
 │
 ├── data/
 │   └── Airport_Data.xlsx
 │
 ├── notebooks/
 │   └── Analyzing_Spreadsheet_Data_with_Python.ipynb
-│
-├── output/
-│   └── seaplane.xlsx
-│
-└── visuals/
-    ├── facility_type_distribution.png
-    ├── top_5_facilities_by_elevation.png
-    └── elevation_distribution.png
 ```
 
 ---
