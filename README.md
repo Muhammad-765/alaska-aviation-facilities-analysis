@@ -144,7 +144,7 @@ Three visualizations were added to provide a clearer exploratory view of the dat
 
 A bar chart showing the number of Airports, Seaplane Bases, and Heliports.
 
-<img width="1366" height="768" alt="Distribution of Aviation Facility Types" src="https://github.com/user-attachments/assets/62016279-269e-4e5e-b2e4-bdb1a8181f29" />
+<img width="786" height="489" alt="Distribution of Aviation Facility Types" src="https://github.com/user-attachments/assets/46c8ade1-71f3-445a-be9a-5ba265b14246" />
 
 
 ---
@@ -153,7 +153,8 @@ A bar chart showing the number of Airports, Seaplane Bases, and Heliports.
 
 A horizontal bar chart comparing the five highest aviation facilities based on `ARPElevation`.
 
-<img width="1366" height="768" alt="Top 5 Aviation Facilities by Elevation" src="https://github.com/user-attachments/assets/b1f8a8f3-1236-4889-8dac-5c8919c388f7" />
+<img width="886" height="485" alt="Top 5 Aviation Facilities by Elevation" src="https://github.com/user-attachments/assets/507a6e45-8b24-4d1f-93ff-ffee6842a260" />
+
 
 ---
 
@@ -161,7 +162,8 @@ A horizontal bar chart comparing the five highest aviation facilities based on `
 
 A histogram showing the distribution of aviation facility elevations across the dataset.
 
-<img width="1366" height="768" alt="Distribution of Aviation Facility Elevations" src="https://github.com/user-attachments/assets/c182b0f0-b361-4172-85ea-54a43888726c" />
+<img width="888" height="489" alt="Distribution of Aviation Facility Elevations" src="https://github.com/user-attachments/assets/83b36cd2-bdfe-45a2-873b-6482fb79b75f" />
+
 
 ---
 
